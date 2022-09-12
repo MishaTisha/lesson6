@@ -1,0 +1,38 @@
+* {
+  background: #e5e5e5;
+  text-align: center;
+}
+
+.card {
+  width: 300px;
+  height: 480px;
+  background: #e0e0e0;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+}
+
+.card h2 {
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  background: #e0e0e0;
+}
+
+.card p {
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+  background: #e0e0e0;
+  padding: 0 10px;
+}
+
+.card img {
+  width: 70%;
+}
+
+.cards {
+  padding: 200px 0;
+}
